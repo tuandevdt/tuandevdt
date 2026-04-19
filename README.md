@@ -25,6 +25,9 @@
   <a href="https://zalo.me/84362931719">
     <img src="https://img.shields.io/badge/Zalo-0068FF?logo=messenger&logoColor=white" />
   </a>
+  <a href="https://www.facebook.com/profile.tuandev">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
+  </a>
 </p>
 
 ---
