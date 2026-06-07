@@ -8,12 +8,12 @@
 
 ## 🧑‍💻 About Me
 
-* 💼 Fullstack Developer
-* 🚀 Focus: Web Applications, APIs, System Design
-* 🌱 Learning: DevOps & Scalable Architecture
-* 📍 Vietnam
-* ⚡ Passionate about clean code & performance
-
+- 💼 Fullstack Developer
+- 🚀 Building scalable web applications and backend systems
+- 🤖 Exploring AI Agents, MCP, RAG, and Workflow Automation
+- 🧠 Learning DevOps, Cloud Architecture, and AI Engineering
+- 📍 Vietnam
+- ⚡ Passionate about clean code, performance, and intelligent systems
 ---
 
 ## 🌐 Connect With Me
@@ -80,6 +80,8 @@
 * ⚡ Develop modern UI with Vue & React
 * 🗄 Design & optimize databases (MySQL, PostgreSQL, MongoDB)
 * 🐳 Containerization with Docker
+* 🤖 AI Agent Development & Workflow Automation
+* 🔗 LLM Integration, RAG & MCP
 * 🔄 API testing & documentation (Postman, Swagger)
 * 📦 Clean architecture & scalable system design
 
@@ -94,11 +96,15 @@
 
 ---
 
-## 🧠 Top Languages
+## 🚀 Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuandevdt&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- AI Agents
+- MCP (Model Context Protocol)
+- RAG Systems
+- LangGraph
+- Multi-Agent Workflows
+- Docker & Kubernetes
+- CI/CD Pipelines
 
 ---
 
